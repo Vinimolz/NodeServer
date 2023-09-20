@@ -1,12 +1,5 @@
 {
-  "name": "firstwebapp",
-  "version": "1.0.0",
-  "description": "Creating the first webapp",
-  "main": "app.js",
-  "type": "module",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "ViniM",
-  "license": "ISC"
+  "dependencies": {
+    "body-parser": "^1.20.2"
+  }
 }
